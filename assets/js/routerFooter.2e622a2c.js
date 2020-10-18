@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["routerFooter"],{"7b29":function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v("尾")])},r=[],u={name:"RouterFooter"},a=u,c=n("2877"),s=Object(c["a"])(a,o,r,!1,null,"35e44ff3",null);t["default"]=s.exports}}]);

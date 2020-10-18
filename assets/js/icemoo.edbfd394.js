@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["icemoo"],{"0291":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("小说")])},c=[],o={name:"Index"},i=o,r=t("2877"),s=Object(r["a"])(i,a,c,!1,null,"0daa8213",null);n["default"]=s.exports}}]);

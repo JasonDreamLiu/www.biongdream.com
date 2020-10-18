@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["allSel"],{"845a":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("全局搜索")])},l=[],c={name:"Index"},r=c,s=t("2877"),u=Object(s["a"])(r,a,l,!1,null,"0b5edcf0",null);n["default"]=u.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["article"],{4241:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("文章")])},c=[],r={name:"Index"},i=r,l=t("2877"),s=Object(l["a"])(i,a,c,!1,null,"469209e5",null);n["default"]=s.exports}}]);
